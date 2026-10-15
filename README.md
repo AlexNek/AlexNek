@@ -2,7 +2,7 @@
 
 Welcome to my profile! I also maintain the [Svn2GitTools](https://github.com/Svn2GitTools), which provides 3 support libraries and 3 conversion tools for SVN to Git migration: SvnExporter, GitImporter, SvnDumpParser, Svn2Git, SvnDump2Git, and SvnRepo2Git.
 
-I also write about .NET, Blazor, AI and software development on [my blog](https://alexnek.github.io/Blog/).
+I also write about .NET, Blazor, AI and software development on [![My Blog](my-blog128.png)](https://alexnek.github.io/Blog/)
 
 <!--
 **AlexNek/AlexNek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
